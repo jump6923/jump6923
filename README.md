@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jump6923/jump6923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
